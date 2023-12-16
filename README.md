@@ -1,5 +1,12 @@
   **This project was to predict diabetese using ML with the help of BRFSS 2022 data set.**
-  
+ - The Behavioral Risk Factor Surveillance System (BRFSS) is an initiative taken by CDC to do telephone surveys that collect state data about U.S .
+ - It is designed to collect state-specific data on various health-related behaviors among adults, including risk factors for chronic diseases, injuries, and preventive health practices.
+ - Based on the suveys data of year 2022 we try to find out factors affecting diabetese and created a model to predict diabetese
+
+
+
+ **STEPS INVOLVED:-**
+ 
 	 • Downloaded SAS data provided by CDC
 	 • Converted it into csv(i.e. converted for ml usable format) for further usage
 [link to zip files that have been downloaded from CDC and converted into csv](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/tree/main/1%20ACCESSING%20SAS%20DATAS%20AND%20CONVERTING%20INTO%20CSV%20USING%20SAS%20STUDIO)
@@ -36,5 +43,5 @@
 	 • [Deployment was done through Streamlit cloud](https://predict-diabetese.streamlit.app/)
   [Deployed model](https://predict-diabetese.streamlit.app/)
 
-**PLEASE DOWNLOAD THE PROJECT REPORT FOR PROPER INSIGHT OF THE PROJECT**
+**PLEASE DOWNLOAD THE PROJECT REPORT FOR PROPER INSIGHT OF THE PROJECT**[Project Report](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/blob/main/FINAL%20REPORT%20ON%20DIABETES%20PREDICTION%20SYSTEM.docx)
 
