@@ -9,5 +9,7 @@
 	 • Validation and Evaluation was done of our newly built model from scratch on our preprocessed dataset
 	 • Web app was made using streamlit 
 	 • [Deployment was done through Streamlit cloud](https://predict-diabetese.streamlit.app/)
-  
+  [Deployed model](https://predict-diabetese.streamlit.app/)
+
 **PLEASE DOWNLOAD THE PROJECT REPORT FOR PROPER INSIGHT OF THE PROJECT**
+
