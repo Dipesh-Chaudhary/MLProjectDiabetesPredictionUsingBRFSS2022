@@ -43,5 +43,5 @@
 	 • [Deployment was done through Streamlit cloud](https://predict-diabetese.streamlit.app/)
   [Deployed model](https://predict-diabetese.streamlit.app/)
 
-**PLEASE DOWNLOAD THE PROJECT REPORT FOR PROPER INSIGHT OF THE PROJECT**[Project Report](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/blob/main/FINAL%20REPORT%20ON%20DIABETES%20PREDICTION%20SYSTEM.docx)
+
 
