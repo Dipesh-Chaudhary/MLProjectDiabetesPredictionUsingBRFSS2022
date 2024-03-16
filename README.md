@@ -1,4 +1,4 @@
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/3e655316-dcae-4b8e-a53f-ed75322500e1)  **This project was to predict diabetese using ML with the help of BRFSS 2022 data set And By Evaluating 2 classification models on our dataset , building that model(i.e. better performing on our dataset) from scratch.**
+**This project was to predict diabetese using ML with the help of BRFSS 2022 data set And By Evaluating 2 classification models on our dataset , building that model(i.e. better performing on our dataset) from scratch.**
  - The Behavioral Risk Factor Surveillance System (BRFSS) is an initiative taken by CDC to do telephone surveys that collect state data about U.S .
  - It is designed to collect state-specific data on various health-related behaviors among adults, including risk factors for chronic diseases, injuries, and preventive health practices.
  - Based on the suveys data of year 2022 we try to find out factors affecting diabetese and created a model to predict diabetese
@@ -48,21 +48,23 @@
 
 **LET'S DEEP DIVE**
 
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/bf64114b-247a-4df7-a289-897f57065525)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/10de35ec-0b95-45eb-be18-5e87e531f64a)
 
 
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/ec075cba-f98e-41c8-9829-29cfbf12b5c0)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/bf36195e-9dad-45b2-9a60-d3359ba342c9)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/9495c26a-9210-4aca-9ac8-be2bc335e3e8)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/4dc6d83a-e93e-40b8-9375-63f198fd3ebb)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/6a4bf5f3-3b63-45a1-8e1a-826992ea873a)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/d0cf7155-c0f6-47cd-ac3d-a0e824cb6015)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/083a9f0f-8521-40de-9041-7123ea51ea99)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/348dfef0-5fb1-4ea5-87e0-d30fe7d60dc6)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/15fc2222-b9d0-4075-b6e0-0dc2e16e07d9)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/402c0712-d24e-49ff-88a6-bfc2d15f5b6c)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/73426554-d2a9-4937-8836-37fb0a99095a)
-![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/a9d7c6be-8757-44ae-96f6-8d6e2fdf1910)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/8a3f9d5e-c9b0-4b00-81cf-63ab8584ce1e)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/0ab9ced2-3a4b-40ea-ab9d-dd48186de1d8)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/4524d544-8e83-49ff-bb1e-52cb99ff9f7f)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/4a56ecd5-65d0-4894-a608-4ce5669f2d16)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/e765eaa7-46a1-4a07-b71e-76f15faaa6e9)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/ff9147c5-2356-49e1-b4a4-2c0c99fafef6)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/0e145b26-4cf6-46b1-975f-d32ed4055476)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/2ec177a9-6b8e-4242-b632-2378bd33c8f3)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/5d8d6f75-c949-4685-b4da-1c1904e8989f)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/157cabd9-3e80-4ea2-a1c9-77ce4ef8db82)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/940828a1-d7b4-44ac-9841-e4761744b87b)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/3e95d9f0-3e9e-4a8e-bb3a-c71136e4be67)
+![image](https://github.com/Dipesh-Chaudhary/MLProjectDiabetesPredictionUsingBRFSS2022/assets/99006857/e791da6d-7321-41ec-8b95-159daa04505c)
+
 
 
 
